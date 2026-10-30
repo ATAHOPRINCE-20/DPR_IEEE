@@ -1,0 +1,21 @@
+question_id,question,relevant_passage_ids,relevance_type,topic
+Q001,What soil characteristics are recommended for productive Robusta coffee?,UCDA_P001,single_passage,Soil requirements
+Q002,What soil pH range does the UCDA handbook recommend for Robusta coffee?,UCDA_P001,single_passage,Soil pH
+Q003,At what altitude range can Robusta coffee be grown according to the UCDA handbook?,UCDA_P002,single_passage,Altitude
+Q004,How does altitude affect the cup profile of Robusta coffee?,UCDA_P002,single_passage,Altitude and cup profile
+Q005,What temperature range is recommended for Robusta coffee?,UCDA_P003,single_passage,Temperature
+Q006,What problems can Robusta coffee experience when temperatures exceed 30°C?,UCDA_P003,single_passage,Heat stress
+Q007,"How much rainfall does Robusta coffee require, and over approximately how many months should it be distributed?",UCDA_P004,single_passage,Rainfall
+Q008,How often should newly planted coffee seedlings be watered when rainfall is irregular?,UCDA_P004,single_passage,Seedling irrigation
+Q009,What are two possible consequences of excessive drought for coffee trees?,UCDA_P005,single_passage,Drought stress
+Q010,Why does the handbook recommend windbreaks in windy coffee-growing areas?,UCDA_P005,single_passage,Wind effects
+Q011,Which crops are listed as possible intercrops while coffee is young?,UCDA_P006,single_passage,Intercropping
+Q012,What spacing rule should be followed between intercrops and coffee trees?,UCDA_P006,single_passage,Intercropping spacing
+Q013,What banana-to-coffee ratio is recommended for coffee–banana intercropping?,UCDA_P007,single_passage,Coffee-banana system
+Q014,Which fungus causes coffee leaf rust?,UCDA_P008,single_passage,Rust causal agent
+Q015,What are the early visible symptoms of coffee leaf rust?,UCDA_P009,single_passage,Rust symptoms
+Q016,How can coffee leaf rust spores spread between plants or fields?,UCDA_P009,single_passage,Rust spread
+Q017,How can repeated coffee leaf rust attacks affect coffee yield and plant health?,UCDA_P010,single_passage,Rust impact
+Q018,Which field-management practices does the UCDA handbook recommend for managing coffee leaf rust?,UCDA_P011,single_passage,Rust management
+Q019,What does the CATIE handbook say about the relationship between shade and coffee leaf rust?,CATIE_P005,single_passage,Shade and rust
+Q020,Why should farmers not assume that a coffee variety resistant to leaf rust is resistant to every coffee disease?,CATIE_P007,single_passage,Genetic control

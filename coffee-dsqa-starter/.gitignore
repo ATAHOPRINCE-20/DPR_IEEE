@@ -1,0 +1,20 @@
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary & Cache Directories
+.tmp/
+.pytest_cache/
+.mypy_cache/
+fastembed_cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db

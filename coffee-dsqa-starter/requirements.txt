@@ -1,0 +1,18 @@
+# Dense Passage Retrieval & BM25 Baseline Dependencies
+# IEEE CIS Domain-Specific QA Challenge (Coffee DSQA Starter)
+
+# Core data processing & evaluation
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Lexical retrieval baseline
+rank-bm25>=0.2.2
+
+# Dense retrieval baseline & encoders
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+torch>=2.0.0
+
+# Utilities
+tqdm>=4.65.0
