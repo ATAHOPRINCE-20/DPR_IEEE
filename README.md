@@ -8,7 +8,7 @@ A reproducible evaluation benchmark comparing **lexical retrieval (BM25)** and *
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 coffee-dsqa-starter/
@@ -30,7 +30,7 @@ coffee-dsqa-starter/
 
 ---
 
-## ⚡ Quickstart & Reproducibility
+## Quickstart & Reproducibility
 
 ### 1. Environment Setup
 Create an isolated Python environment and install the required dependencies:
@@ -73,7 +73,7 @@ python src/run_experiment.py \
 
 ---
 
-## 📊 Benchmark Evaluation Results
+##  Benchmark Evaluation Results
 
 Evaluated on 20 manually verified domain queries across 19 coffee agronomy passages:
 
@@ -88,7 +88,7 @@ Evaluated on 20 manually verified domain queries across 19 coffee agronomy passa
 
 ---
 
-## 🔬 Key Research Findings
+##  Key Research Findings
 
 1. **Semantic Generalization vs. Term Dilution**: Dense retrieval resolved lexical vocabulary mismatch in paraphrased questions (e.g., `Q010` windbreaks and `Q020` multiline disease resistance), achieving **100% Recall@1**.
 2. **Computational Efficiency**: BM25 operated at **0.70 ms per query** (~22× faster than dense CPU inference) with zero GPU/ONNX memory overhead and perfect **Recall@5 (1.0000)**.
@@ -98,7 +98,7 @@ See the full [RESEARCH_REPORT.md](RESEARCH_REPORT.md) for the complete literatur
 
 ---
 
-## 📚 Corpus Provenance & Attribution
+## Corpus Provenance & Attribution
 
 The benchmark corpus was curated from two authoritative agronomic guides:
 1. **Uganda Coffee Development Authority (UCDA)**, *Robusta Coffee Handbook* (2019). Focuses on Robusta (*Coffea canephora*) production, pruning, elevation, and agroforestry in Uganda.
